@@ -1,0 +1,14 @@
+Lap: Refere-se a uma volta completa em uma pista, seja em um circuito de corrida, pista de teste ou qualquer outro tipo de circuito.
+Lap time: É o tempo que um veículo leva para completar uma volta. Essa métrica é fundamental para avaliar o desempenho de um veículo e de um piloto.
+Min speed: A velocidade mínima atingida durante a volta. Pode indicar, por exemplo, a velocidade em curvas mais lentas ou em seções com menor aceleração.
+Max speed: A velocidade máxima atingida durante a volta. Revela o potencial de velocidade máxima do veículo em determinada condição.
+Avg speed: A velocidade média durante toda a volta. É uma média ponderada das diferentes velocidades ao longo da pista.
+End pos: A posição final do veículo ao término da volta em relação aos outros competidores.
+S1, S2, S3: Geralmente se referem aos setores de uma pista. Uma volta é dividida em três setores para análise mais detalhada do desempenho em diferentes partes da pista. S1, S2 e S3 representam cada um desses setores.
+O que essas informações juntas nos dizem:
+
+Ao analisar esses dados em conjunto, podemos obter uma visão bastante completa do desempenho de um veículo ou piloto em uma determinada volta. Por exemplo:
+
+Comparação entre voltas: Comparando os tempos de volta, velocidades máximas e mínimas de diferentes voltas, podemos identificar tendências, como melhora no desempenho ao longo do tempo ou problemas específicos em determinadas seções da pista.
+Análise de setores: Analisando os tempos nos setores S1, S2 e S3, podemos identificar em qual parte da pista o veículo está mais rápido ou mais lento, auxiliando na identificação de áreas para otimização.
+Comparação entre veículos ou pilotos: Comparando esses dados entre diferentes veículos ou pilotos, podemos avaliar o desempenho relativo de cada um e identificar pontos fortes e fracos.
